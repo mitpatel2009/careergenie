@@ -1,0 +1,6 @@
+streamlit-option-menu
+streamlit
+google-genai
+python-dotenv
+pycountry
+pdfkit
